@@ -1,0 +1,6 @@
+fun aVeryBigSum(ar: Array<Long>): Long {
+var totalSum:Long = 0}
+   {for (i in ar)
+    return (totalSum)}
+finalSum = sum =+ ar
+println(finalSum)
